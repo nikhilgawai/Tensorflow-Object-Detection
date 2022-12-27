@@ -1,10 +1,6 @@
 # Tensorflow-Object-Detection
 
 ## Demo
-![Screenshot from 2022-12-27 15-11-18](https://user-images.githubusercontent.com/89011801/209655379-4396eab5-622c-4516-9ea6-92a5954ea8e8.png)
-
-
-
 ![Screenshot from 2022-12-27 15-05-04](https://user-images.githubusercontent.com/89011801/209655425-737363d8-262c-4979-863d-851ac61a5aa9.png)
 
 
